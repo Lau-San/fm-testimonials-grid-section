@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,11 +23,15 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
+-   View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
-<!-- TODO Add Screenshot -->
+Desktop
+![](./screenshots/desktop.png)
+
+Desktop - hover
+![](./screenshots/desktop-hover.png)
 
 ### Links
 
@@ -42,27 +46,26 @@ Users should be able to:
 
 ### Built with
 
-<!-- TODO Update this section -->
-
-<!-- - Semantic HTML5 markup -->
-<!-- - CSS custom properties -->
-<!-- - Flexbox -->
-- CSS Grid
-<!-- - Mobile-first workflow -->
-- [Sass](https://sass-lang.com)
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   CSS Grid
+-   Mobile-first workflow
+-   [Sass](https://sass-lang.com)
 
 ### What I learned
 
-<!-- TODO Update this section -->
+-   I learned a bit more about Sass. Mainly partials and modules.
+-   I got more practice with CSS Grid and animations.
 
 ### Continued development
 
-<!-- TODO Update this section -->
+I'll keep learning Sass, since there's still a lot that I don't know about it.
 
 ### Useful resources
 
-<!-- TODO Update this section -->
+-   [Sass, BEM & Responsive Design](https://www.youtube.com/watch?v=jfMHA8SqUL4) - I'm learning Sass with this course.
 
 ## Author
 
-- Frontend Mentor - [@Lau-San](https://www.frontendmentor.io/profile/Lau-San)
+-   Frontend Mentor - [@Lau-San](https://www.frontendmentor.io/profile/Lau-San)

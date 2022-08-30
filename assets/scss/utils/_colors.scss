@@ -1,3 +1,8 @@
+// I mainly used CSS custom properties for colors.
+// These are here to make it easier To reuse these colors with different
+// opacities with rgba($color-name, <opacity>) or hsla($color-name, <opacity>)
+// since I couldn't make that work with CSS custom properties.
+
 $moderate-violet: hsl(263, 55%, 52%);
 $very-dark-grayish-blue: hsl(217, 19%, 35%);
 $very-dark-blackish-blue: hsl(219, 29%, 14%);

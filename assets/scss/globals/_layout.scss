@@ -1,0 +1,50 @@
+// TODO Make this thing responsive
+@use "../utils" as u;
+
+.main {
+	min-height: 100vh;
+
+	@media (min-width: u.$sm) {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+.testimonials {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 1.5rem;
+	width: 88%;
+	margin: 4rem auto;
+
+	@media (min-width: u.$sm) {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	@media (min-width: u.$lg) {
+		grid-template-columns: repeat(4, 1fr);
+		width: min(90%, 1120px);
+	}
+
+	.testimonial {
+		grid-column: span 1;
+
+		&.wide {
+			@media (min-width: u.$sm) {
+				grid-column: span 2;
+			}
+		}
+
+		&.tall {
+			@media (min-width: u.$sm) {
+				grid-column: span 3;
+			}
+
+			@media (min-width: u.$lg) {
+				grid-column: 4 / span 1;
+				grid-row: 1 / span 2;
+			}
+		}
+	}
+}
