@@ -35,12 +35,8 @@ Desktop - hover
 
 ### Links
 
-<!-- TODO Update this section -->
-
-<!-- TODO Add Solution URL -->
-<!-- - [View Solution in Frontend Mentor](https://your-solution-url.com) -->
-<!-- TODO Add Demo URL -->
-<!-- - [Go to Demo Site](https://your-live-site-url.com) -->
+- [View Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-animations-Z9Xofw01GU)
+- [Go to Demo Site](https://lau-san.github.io/fm-testimonials-grid-section/)
 
 ## My process
 
